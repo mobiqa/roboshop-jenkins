@@ -1,7 +1,5 @@
 <?xml version='1.1' encoding='UTF-8'?>
 <com.cloudbees.hudson.plugins.folder.Folder plugin="cloudbees-folder@6.800.v7130                                                                             7ca_b_986b">
-    <description></description>
-    <displayName>dummy</displayName>
     <properties/>
     <folderViews class="com.cloudbees.hudson.plugins.folder.views.DefaultFolderVie                                                                             wHolder">
         <views>
