@@ -27,7 +27,7 @@
         <data>
             <jenkins.branch.BranchSource>
                 <source class="jenkins.plugins.git.GitSCMSource" plugin="git">
-                    <id>1d5b0847-e911-4f9d-b90e-c477b83549b8</id>
+                    <id>{{unique_key}}</id>
                     <remote>https://github.com/mobiqa/{{item.name}}</remote>
                     <credentialsId></credentialsId>
                     <traits>
