@@ -10,12 +10,6 @@
     <icon class="jenkins.branch.MetadataActionFolderIcon" plugin="branch-api">
         <owner class="org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject" reference="../.."/>
     </icon>
-    <orphanedItemStrategy class="com.cloudbees.hudson.plugins.folder.computed.DefaultOrphanedItemStrategy" plugin="cloudbees-folder">
-        <pruneDeadBranches>true</pruneDeadBranches>
-        <daysToKeep>-1</daysToKeep>
-        <numToKeep>-1</numToKeep>
-        <abortBuilds>false</abortBuilds>
-    </orphanedItemStrategy>
     <triggers>
         <com.igalg.jenkins.plugins.mswt.trigger.ComputedFolderWebHookTrigger plugin="multibranch-scan-webhook-trigger">
             <spec></spec>
