@@ -14,3 +14,4 @@ folders:
 sbranch_pipeline_jobs:
   - {name: "roboshop-infra", dir: "Infra"}
   - {name: "roboshop-infra1", dir: "Infra"}
+  - {name: "roboshop-helm-chart", dir: "CD"}
