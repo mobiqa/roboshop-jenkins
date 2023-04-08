@@ -9,6 +9,7 @@ ci_pipeline_jobs:
 folders:
   - CIPipelines
   - Infra
+  - CD
 
 
 sbranch_pipeline_jobs:
