@@ -16,4 +16,4 @@ sbranch_pipeline_jobs:
   - {name: "roboshop-infra", dir: "Infra"}
   - {name: "roboshop-infra1", dir: "Infra"}
   - {name: "roboshop-infra2", dir: "Infra"}
-  - {name: "roboshop-helm-chart", dir: "CD"}
+  - {name: "roboshop-helm-chart1", dir: "CD"}
